@@ -1,0 +1,5 @@
+{"id":"train-1","split":"train","text":"The patient received a routine follow up appointment on Monday"}
+{"id":"test-1","split":"test","text":"The patient received a routine follow up appointment on Monday"}
+{"id":"test-2","split":"test","text":"A small robot moves through a warehouse carrying boxes"}
+{"id":"train-2","split":"train","text":"A gardener plants herbs and waters them in spring"}
+{"id":"test-3","split":"test","text":"The patient received a routine follow up appointment on Tuesday"}
